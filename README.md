@@ -1,3 +1,4 @@
 # TON_notice
 ラウンドかテラーが更新された場合デスクトップ通知を送ってくれます。
-使う前にターミナルで''pip install websockets win10toast''を打って必要なライブラリをインストールしてください
+使う前にPythonとターミナルで''pip install websockets win10toast''を打って必要なライブラリをインストールしてください
+ton save manegerのAPIを有効にしないと動きません
